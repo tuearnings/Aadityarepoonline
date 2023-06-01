@@ -50,7 +50,7 @@ ABOUT_TEXT = """
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
 `👨‍💻 Developer:` [Dev](t.me/BlasterOriginals)
 `📢 Support:` [Talk Bot](https://t.me/BlasterOriginals)
-`🌐 Source Code:` [GitHub](https://github.com/kevinnadar22/URL-Shortener-V2/)
+`🌐 Source Code:` [Neeku Endhuku Ra]
 """
 
 
