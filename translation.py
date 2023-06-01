@@ -48,8 +48,8 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](t.me/ask_admin001)
-`📢 Support:` [Talk Bot](https://t.me/ask_admin001)
+`👨‍💻 Developer:` [Dev](t.me/BlasterOriginals)
+`📢 Support:` [Talk Bot](https://t.me/BlasterOriginals)
 `🌐 Source Code:` [GitHub](https://github.com/kevinnadar22/URL-Shortener-V2/)
 """
 
